@@ -13,7 +13,7 @@ https://backend.energeek.cl/webtv/egpopweb/video.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="Animacion" tvg-id="KanadeTV" tvg-name="Kanade", Kanade
 https://streams.kanade.cl/webtv/kanadeweb/video.m3u8?token=deM0kanADeweB
 #EXTINF:-1  tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Animacion" tvg-id="Locomotion" tvg-name="Locomotion", Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="Animacion" tvg-id="DreikoTV" tvg-name="Dreiko TV", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/variedtv.png" group-title="Animacion" tvg-id="VariedTV" tvg-name="Varied TV", Varied TV
@@ -116,3 +116,4 @@ https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208301.png?1756617410" group-title="Peliculas" tvg-id="WOW" tvg-name="WOW", WOW
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
