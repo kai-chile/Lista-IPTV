@@ -25,7 +25,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Animacion" tvg-id="Gogoplay" tvg-name="Gogoplay TV", Gogoplay TV
 https://giatv.bozztv.com/giatv/giatv-123456Kaneda2019+/123456Kaneda2019+/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://canales.netvgroup.com/uploads/ztv.png" group-title="Animacion" tvg-id="ZTV" tvg-name="ZTV", ZTV
-https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.ts.m3u8
+https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Animacion" tvg-id="MAXAnime" tvg-name="MAX Anime", MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/magic-kids.png" group-title="Animacion" tvg-id="MagicKidsSite" tvg-name="Magic Kids 24/7", Magic Kids 24/7
@@ -114,5 +114,6 @@ https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208301.png?1756617410" group-title="Peliculas" tvg-id="WOW" tvg-name="WOW", WOW
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
 
 
