@@ -18,7 +18,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/variedtv.png" group-title="Animacion" tvg-id="VariedTV" tvg-name="Varied TV", Varied TV
 https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://gia.tv/streams/logo/208643.png?1762834340" group-title="Animacion" tvg-id="BigTV" tvg-name="Big TV", Big TV
+#EXTINF:-1  tvg-logo="https://gia.tv/streams/logo/208643.png?1762834340" group-title="Peliculas" tvg-id="BigTV" tvg-name="Big TV", Big TV
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="Animacion" tvg-id="LMSTV" tvg-name="Canal LMS", Canal LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
@@ -28,7 +28,7 @@ https://giatv.bozztv.com/giatv/giatv-123456Kaneda2019+/123456Kaneda2019+/playlis
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Animacion" tvg-id="MAXAnime" tvg-name="MAX Anime", MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/magic-kids.png" group-title="Animacion" tvg-id="MagicKidsSite" tvg-name="Magic Kids 24/7", Magic Kids 24/7
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="Animacion" tvg-id="MagicKidsSite" tvg-name="Magic Kids 24/7", Magic Kids 24/7
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="Animacion" tvg-id="TaltalTVSeriesAnime" tvg-name="Taltal TV Series Anime", Taltal TV Series Anime
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
@@ -48,9 +48,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208685/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PwqBO9LlQsFqIl6yuI3FG-CHLOwVVu1A3NEEzrwTrmUnh8HlmFYpFUFAS-WHkozipPDiVyTw8YAVMGBlsBo" group-title="Animacion" tvg-id="TheSimpsons2" tvg-name="The Simpsons 2", The Simpsons 2
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Pelicula Animada" tvg-id="MoniTV" tvg-name="Moni TV", Moni TV
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Animacion" tvg-id="MoniTV" tvg-name="Moni TV", Moni TV
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="Animacion Clasica" tvg-id="RetroToons" tvg-name="Retro Toons", Retro Toons
+#EXTINF:-1 tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="Animacion" tvg-id="RetroToons" tvg-name="Retro Toons", Retro Toons
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3298-294x165-FFFFFF.jpg" group-title="Clasicos" tvg-id="TELECLASICA" tvg-name="TELECLASICA", TELECLASICA
 https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
@@ -58,13 +58,13 @@ https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="Clasicos" tvg-id="RetroX" tvg-name="Retro X", Retro X
 https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvretrotest.proinsar.com/imagenes/Logo.png" group-title="NeoTV" tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares", TV Retro Palmares
+#EXTINF:-1 tvg-logo="https://www.tvretrotest.proinsar.com/imagenes/Logo.png" group-title="Clasicos" tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares", TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zLkTnFfdGGq5-cuY0DBvsCoiRUToWFA8rcm_Z3ieUr7rwgmzyojRXIfqMXt9dm4ocjs" group-title="Clasicos" tvg-id="RetroTvOnline" tvg-name="Retro TV Online", Retro TV Online
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.sarapiqui.go.cr/wp-content/uploads/2020/11/logo-sarapiqu%C3%AD-esp.png" group-title="Clasicos" tvg-id="STV" tvg-name="STV", STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmirMiP49PZwLLw8Vc_vA6AUWEpd4bmsfow&s" group-title="Pelicula Animada" tvg-id="AniFun" tvg-name="AniFun", AniFun
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmirMiP49PZwLLw8Vc_vA6AUWEpd4bmsfow&s" group-title="Animacion" tvg-id="AniFun" tvg-name="AniFun", AniFun
 https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBlMzA3ZTUtODZjNi00NTM0LWExMjMtNjJhYzA3YTkwMWYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Animacion" tvg-id="SouthPark" tvg-name="South Park", South Park
 https://live20.bozztv.com/akamaissh101/ssh101/sparkx/chunks.m3u8
@@ -100,20 +100,17 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 https://scl.edge.grupoz.cl/planetatv/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/next-hd-2.png" group-title="Internacional" tvg-id="NextHD" tvg-name="Next HD", Next HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/contivision.png" group-title="Internacional" tvg-id="Contivision" tvg-name="Contivisión", Contivisión
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/contivision.png" group-title="General" tvg-id="Contivision" tvg-name="Contivisión", Contivisión
 https://unlimited1-cl-isp.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/ucv-television.png" group-title="General" tvg-id="UCVTV" tvg-name="UCV Televisión", UCV Televisión
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/ucv-television.png" group-title="Retro Nacional" tvg-id="UCVE" tvg-name="UCV Eventos", UCV Eventos
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1dMJh582uegH2pvIzK7JFZBqpEFJJl3tn86xFU5d6qyKo_93zu1SimNybTlmiB49uU4yNdYQzyyrItSvgJSE0X8qhT2lDkr_guWxWUAZe8HqwoEVA0rCCq7Gw6Eiocw06v_yrCX5j_1k/s1600/cooltext322362673602554.png" group-title="Peliculas" tvg-id="TIGUERITOS" tvg-name="TIGUERITOS", TIGUERITOS
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1dMJh582uegH2pvIzK7JFZBqpEFJJl3tn86xFU5d6qyKo_93zu1SimNybTlmiB49uU4yNdYQzyyrItSvgJSE0X8qhT2lDkr_guWxWUAZe8HqwoEVA0rCCq7Gw6Eiocw06v_yrCX5j_1k/s1600/cooltext322362673602554.png" group-title="Internacional" tvg-id="TIGUERITOS" tvg-name="TIGUERITOS", TIGUERITOS
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/566/327/png-transparent-canal-13-logo-chile-television-front-and-back-covers-television-text-trademark.png" group-title="General" tvg-id="Canal13" tvg-name="Canal 13", Canal 13
-https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist_400.m3u8?dpssid=b220473488696824fcbf15d24&sid=ba5t1l1xb2403327747682746a7ccc5c&ndvc=0
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_mega_nuevo.jpg" group-title="General" tvg-id="MEGA" tvg-name="MEGA", MEGA
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208301.png?1756617410" group-title="Peliculas" tvg-id="WOW" tvg-name="WOW", WOW
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
 
 
 
