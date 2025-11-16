@@ -89,7 +89,7 @@ https://unlimited2-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/estacion-tv-png.png" group-title="Radio" tvg-id="EstacionTV" tvg-name="Estación TV", Estación TV
 https://v4.tustreaming.cl/limachemovil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/bayrestv.png" group-title="Peliculas" tvg-id="BayresTV" tvg-name="BayresTV", BayresTV
-https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1279991515.m3u8
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1790324222.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/gentv-digital.png" group-title="Internacional" tvg-id="GenTV" tvg-name="GenTV Digital", GenTV Digital
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/telemax.png" group-title="Internacional" tvg-id="TeleMAX" tvg-name="TeleMAX", TeleMAX
@@ -114,6 +114,7 @@ https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/10b92cafdf3646cbc1e727f
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208301.png?1756617410" group-title="Peliculas" tvg-id="WOW" tvg-name="WOW", WOW
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
 
 
 
