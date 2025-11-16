@@ -28,7 +28,7 @@ https://giatv.bozztv.com/giatv/giatv-123456Kaneda2019+/123456Kaneda2019+/playlis
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Animacion" tvg-id="MAXAnime" tvg-name="MAX Anime", MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logomagic96.png" group-title="Animacion" tvg-id="MagicKidsSite" tvg-name="Magic Kids 24/7", Magic Kids 24/7
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logomagic96.png/250px-Logomagic96.png" group-title="Animacion" tvg-id="MagicKidsSite" tvg-name="Magic Kids 24/7", Magic Kids 24/7
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="Animacion" tvg-id="TaltalTVSeriesAnime" tvg-name="Taltal TV Series Anime", Taltal TV Series Anime
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
@@ -110,6 +110,7 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/streams/logo/208301.png?1756617410" group-title="Peliculas" tvg-id="WOW" tvg-name="WOW", WOW
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
+
 
 
 
