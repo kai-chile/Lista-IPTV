@@ -51,7 +51,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="Animacion" tvg-id="RetroToons" tvg-name="Retro Toons", Retro Toons
 https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3298-294x165-FFFFFF.jpg" group-title="Clasicos" tvg-id="TELECLASICA" tvg-name="TELECLASICA", TELECLASICA
-https://sc1.wasidata.com/Teleclasica/index.fmp4.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-Mi-TV-Television-Clasica-en-vivo-150x96.jpg" group-title="Clasicos" tvg-id="MiTV" tvg-name="Mi TV", Mi TV
 https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png" group-title="Clasicos" tvg-id="RetroX" tvg-name="Retro X", Retro X
@@ -108,6 +108,7 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fccp3-1.fna.fbcdn.net/v/t39.30808-1/400410565_122105924618106094_3575595413868690358_n.jpg?stp=c252.0.1476.1476a_dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1d2534&_nc_ohc=XX6uFc79zbgQ7kNvwHhmz1D&_nc_oc=AdnnZoLl44eLPAH7vHnouAgMNq_V_6BO06kwNUi_i96PMBk5IBLLjND9s17rj_w0Ghw&_nc_zt=24&_nc_ht=scontent.fccp3-1.fna&_nc_gid=pB0Kr6NaPuK-Z1WRCnI5jw&oh=00_AfiXnsWKjOypo9hbIu2JySgVZjjWS0gPmyYtdYP5Hk_7ig&oe=692190A9" group-title="Peliculas" tvg-id="UVATV" tvg-name="UVA TV", UVA TV
 https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/chunks.m3u8
+
 
 
 
