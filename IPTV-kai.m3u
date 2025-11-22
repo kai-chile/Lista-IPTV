@@ -36,16 +36,12 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlis
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv1/zaztv.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-retro-magico-150x84.jpg" group-title="Animacion" tvg-id="RetroMagico" tvg-name="Retro Magico", Retro Magico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.awn.com/sites/default/files/styles/inline_medium/public/image/featured/1026829-turner-launches-toonami-channel-france.jpg?itok=upcd9lFG" group-title="Animacion" tvg-id="TOONAMI" tvg-name="TOONAMI", TOONAMI
-https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2GUr3i-fvjT5JA4QhZcNPSKcZlTZMsa4oA&s" group-title="Animacion" tvg-id="TELEANIMEMANIAESPAÑA" tvg-name="TELEANIMEMANIA ESPAÑA", TELEANIMEMANIA ESPAÑA
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsa2RVmvdmoazHCsvuqWQdJcqW4_0QwWNxoQ&s" group-title="Animacion" tvg-id="TELEANIMEMANIALATINO" tvg-name="TELEANIMEMANIA LATINO", TELEANIMEMANIA LATINO
 https://live20.bozztv.com/giatvplayout7/giatv-210634/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2OJWBBeUXVhJmMVGM3ACvqnVyBlNgjArNg&s" group-title="Animacion" tvg-id="Animestation" tvg-name="AnimeStation", Animestation
 https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaxdcFeDJ6_Ja_NApC0dPmcXE6tktKNPZZUg&s" group-title="Animacion" tvg-id="FunTV" tvg-name="Fun TV", Fun TV
-https://live20.bozztv.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_.jpg" group-title="Animacion" tvg-id="TheSimpsons1" tvg-name="The Simpsons 1", The Simpsons 1
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PwqBO9LlQsFqIl6yuI3FG-CHLOwVVu1A3NEEzrwTrmUnh8HlmFYpFUFAS-WHkozipPDiVyTw8YAVMGBlsBo" group-title="Animacion" tvg-id="TheSimpsons2" tvg-name="The Simpsons 2", The Simpsons 2
@@ -66,8 +62,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.sarapiqui.go.cr/wp-content/uploads/2020/11/logo-sarapiqu%C3%AD-esp.png" group-title="Clasicos" tvg-id="STV" tvg-name="STV", STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmirMiP49PZwLLw8Vc_vA6AUWEpd4bmsfow&s" group-title="Animacion" tvg-id="AniFun" tvg-name="AniFun", AniFun
-https://live20.bozztv.com/giatv/giatv-FunTVEste/FunTVEste/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBlMzA3ZTUtODZjNi00NTM0LWExMjMtNjJhYzA3YTkwMWYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Animacion" tvg-id="SouthPark" tvg-name="South Park", South Park
 https://live20.bozztv.com/akamaissh101/ssh101/sparkx/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="Videos Musicales" tvg-id="KpopTV" tvg-name="Kpop TV", Kpop TV
@@ -114,6 +108,7 @@ https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fccp3-1.fna.fbcdn.net/v/t39.30808-1/400410565_122105924618106094_3575595413868690358_n.jpg?stp=c252.0.1476.1476a_dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=1d2534&_nc_ohc=XX6uFc79zbgQ7kNvwHhmz1D&_nc_oc=AdnnZoLl44eLPAH7vHnouAgMNq_V_6BO06kwNUi_i96PMBk5IBLLjND9s17rj_w0Ghw&_nc_zt=24&_nc_ht=scontent.fccp3-1.fna&_nc_gid=pB0Kr6NaPuK-Z1WRCnI5jw&oh=00_AfiXnsWKjOypo9hbIu2JySgVZjjWS0gPmyYtdYP5Hk_7ig&oe=692190A9" group-title="Peliculas" tvg-id="UVATV" tvg-name="UVA TV", UVA TV
 https://live20.bozztv.com/akamaissh101/ssh101/uvatvhdrd/chunks.m3u8
+
 
 
 
