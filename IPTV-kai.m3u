@@ -23,11 +23,7 @@ https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="Animacion" tvg-id="LMSTV" tvg-name="Canal LMS", Canal LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Animacion" tvg-id="Gogoplay" tvg-name="Gogoplay TV", Gogoplay TV
-https://giatv.bozztv.com/giatv/giatv-123456Kaneda2019+/123456Kaneda2019+/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Animacion" tvg-id="Gogoplay" tvg-name="Gogoplay TV op2", Gogoplay TV op2
-https://live21.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://canales.netvgroup.com/uploads/ztv.png" group-title="Animacion" tvg-id="ZTV" tvg-name="ZTV", ZTV
-https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.ts.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Animacion" tvg-id="MAXAnime" tvg-name="MAX Anime", MAX Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1262595444368199687/xluAUH_A_400x400.jpg" group-title="Animacion" tvg-id="MagicKids" tvg-name="Magic Kids", Magic Kids 
@@ -35,7 +31,7 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="Animacion" tvg-id="TaltalTVSeriesAnime" tvg-name="Taltal TV Series Anime", Taltal TV Series Anime
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQ8pKRdz9oagDR9VNf-ZC2q9HmPkqNHHCPzzVACii0-drVxmARoH89ANvvyO4sKAe16iFzXp3K9CM7mKvjpMw8KG_VDPDD7WmRxVm9jcKAhYbalQhlLa-JnG89CGpDmAPGvcZpZukJrHCI5Os4qp1Rg0V1nk545lF4P4ED7K0h9cKWFH6j2BfuN1PRw/s1280/zaz.jpg" group-title="Animacion" tvg-id="ZazTV" tvg-name="Zaz TV", Zaz tv
-https://cloud.fastchannel.es/mic/manifiest/hls/zaztv1/zaztv.m3u8
+https://fra-prod-catalyst-0.lp-playback.studio/hls/video+132ekew5u1m403gy/0_1/index.m3u8?tkn=t6QSifkoNdKCXQtoN4SreX
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-retro-magico-150x84.jpg" group-title="Animacion" tvg-id="RetroMagico" tvg-name="Retro Magico", Retro Magico
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2GUr3i-fvjT5JA4QhZcNPSKcZlTZMsa4oA&s" group-title="Animacion" tvg-id="TELEANIMEMANIAESPAÑA" tvg-name="TELEANIMEMANIA ESPAÑA", TELEANIMEMANIA ESPAÑA
