@@ -58,20 +58,14 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvretrotest.proinsar.com/imagenes/Logo.png" group-title="Clasicos" tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares", TV Retro Palmares
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zLkTnFfdGGq5-cuY0DBvsCoiRUToWFA8rcm_Z3ieUr7rwgmzyojRXIfqMXt9dm4ocjs" group-title="Clasicos" tvg-id="RetroTvOnline" tvg-name="Retro TV Online", Retro TV Online
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.sarapiqui.go.cr/wp-content/uploads/2020/11/logo-sarapiqu%C3%AD-esp.png" group-title="Clasicos" tvg-id="STV" tvg-name="STV", STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBlMzA3ZTUtODZjNi00NTM0LWExMjMtNjJhYzA3YTkwMWYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Animacion" tvg-id="SouthPark" tvg-name="South Park", South Park
-https://live20.bozztv.com/akamaissh101/ssh101/sparkx/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="Videos Musicales" tvg-id="KpopTV" tvg-name="Kpop TV", Kpop TV
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/vconline.png" group-title="Videos Musicales" tvg-id="VCONLINE" tvg-name="VCONLINE", VCONLINE
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/fantasia-tv.png" group-title="Videos Musicales" tvg-id="FantasiaTV" tvg-name="Fantasia TV", Fantasia TV
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/ruidostv.png" group-title="Videos Musicales" tvg-id="RuidosTV" tvg-name="Ruidos TV", Ruidos TV
-https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/parentesis-tv-1.png" group-title="Videos Musicales" tvg-id="ParentesisTV" tvg-name="Parentesis TV", Parentesis TV
 https://freya.mivideo.pro/parentesistv/index.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/radio-carolina.png" group-title="Videos Musicales" tvg-id="RadioCarolina" tvg-name="Radio Carolina", Radio Carolina
@@ -85,7 +79,7 @@ https://unlimited2-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/estacion-tv-png.png" group-title="Radio" tvg-id="EstacionTV" tvg-name="Estación TV", Estación TV
 https://v4.tustreaming.cl/limachemovil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/bayrestv.png" group-title="Peliculas" tvg-id="BayresTV" tvg-name="BayresTV", BayresTV
-https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1790324222.m3u8
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w1264914771.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/gentv-digital.png" group-title="Internacional" tvg-id="GenTV" tvg-name="GenTV Digital", GenTV Digital
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/telemax.png" group-title="Internacional" tvg-id="TeleMAX" tvg-name="TeleMAX", TeleMAX
