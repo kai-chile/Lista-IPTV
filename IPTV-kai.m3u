@@ -8,8 +8,6 @@ https://backend.energeek.cl/webtv/egretro/mobile/video.m3u8?token=dEmoweBeneRGEe
 https://backend.energeek.cl/webtv/egfanweb/video.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/eg-fan.png" group-title="Animacion" tvg-id="EnerGeekFan" tvg-name="EnerGeek FAN op2", EnerGeek FAN op2
 https://backend.energeek.cl/webtv/egfan/mobile/video.m3u8?token=dEmoweBeneRGEek2025
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/eg-pop.png" group-title="Animacion" tvg-id="EnerGeekPop" tvg-name="EnerGeek Pop", EnerGeek Pop
-https://backend.energeek.cl/webtv/egpopweb/video.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/kanade.png" group-title="Animacion" tvg-id="KanadeTV" tvg-name="Kanade", Kanade
 https://streams.kanade.cl/webtv/kanadeweb/video.m3u8?token=deM0kanADeweB
 #EXTINF:-1  tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Animacion" tvg-id="Locomotion" tvg-name="Locomotion", Locomotion
