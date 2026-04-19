@@ -14,8 +14,6 @@ https://streams.kanade.cl/webtv/kanadeweb/video.m3u8?token=deM0kanADeweB
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="Animacion" tvg-id="DreikoTV" tvg-name="Dreiko TV", Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/variedtv.png" group-title="Animacion" tvg-id="VariedTV" tvg-name="Varied TV", Varied TV
-https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="Animacion" tvg-id="LMSTV" tvg-name="Canal LMS", Canal LMS
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Animacion" tvg-id="Gogoplay" tvg-name="Gogoplay TV", Gogoplay TV
@@ -29,7 +27,7 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlis
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/taltal-tv.png" group-title="Animacion" tvg-id="TaltalTVPeliculasAnime" tvg-name="Taltal TV Peliculas Anime", Taltal TV Peliculas Anime
 https://live20.bozztv.com/giatv/giatv-TALTALPELICULAS/TALTALPELICULAS/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQ8pKRdz9oagDR9VNf-ZC2q9HmPkqNHHCPzzVACii0-drVxmARoH89ANvvyO4sKAe16iFzXp3K9CM7mKvjpMw8KG_VDPDD7WmRxVm9jcKAhYbalQhlLa-JnG89CGpDmAPGvcZpZukJrHCI5Os4qp1Rg0V1nk545lF4P4ED7K0h9cKWFH6j2BfuN1PRw/s1280/zaz.jpg" group-title="Animacion" tvg-id="ZazTV" tvg-name="Zaz TV", Zaz tv
-https://fra-prod-catalyst-0.lp-playback.studio/hls/video+132ekew5u1m403gy/0_1/index.m3u8?tkn=t6QSifkoNdKCXQtoN4SreX
+https://nyc-prod-catalyst-0.lp-playback.studio/hls/video+132ekew5u1m403gy/0_1/index.m3u8?tkn=sShWfGsgubuGbr0Vfi6qvt
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-retro-magico-150x84.jpg" group-title="Animacion" tvg-id="RetroMagico" tvg-name="Retro Magico", Retro Magico
 https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp2GUr3i-fvjT5JA4QhZcNPSKcZlTZMsa4oA&s" group-title="Animacion" tvg-id="TELEANIMEMANIAESPAÑA" tvg-name="TELEANIMEMANIA ESPAÑA", TELEANIMEMANIA ESPAÑA
@@ -46,8 +44,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Animacion" tvg-id="MoniTV" tvg-name="Moni TV", Moni TV
 https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="Animacion" tvg-id="RetroToons" tvg-name="Retro Toons", Retro Toons
-https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3298-294x165-FFFFFF.jpg" group-title="Clasicos" tvg-id="TELECLASICA" tvg-name="TELECLASICA", TELECLASICA
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-Mi-TV-Television-Clasica-en-vivo-150x96.jpg" group-title="Clasicos" tvg-id="MiTV" tvg-name="Mi TV", Mi TV
