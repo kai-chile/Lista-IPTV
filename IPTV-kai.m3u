@@ -26,6 +26,8 @@ https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/playlist.
 https://183.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2025/05/canal-retro-magico-150x84.jpg" group-title="Animacion" tvg-id="RetroMagico" tvg-name="Retro Magico", Retro Magico
 https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx2OJWBBeUXVhJmMVGM3ACvqnVyBlNgjArNg&s" group-title="Animacion" tvg-id="Animestation" tvg-name="AnimeStation", Animestation
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_.jpg" group-title="Animacion" tvg-id="TheSimpsons1" tvg-name="The Simpsons 1", The Simpsons 1
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/PwqBO9LlQsFqIl6yuI3FG-CHLOwVVu1A3NEEzrwTrmUnh8HlmFYpFUFAS-WHkozipPDiVyTw8YAVMGBlsBo" group-title="Animacion" tvg-id="TheSimpsons2" tvg-name="The Simpsons 2", The Simpsons 2
