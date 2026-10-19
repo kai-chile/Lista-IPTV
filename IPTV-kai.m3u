@@ -78,5 +78,17 @@ https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.energeek.cl/assets/img/channels/neotv-digital.png" group-title="Internacional" tvg-id="NeoTV" tvg-name="Neo TV", Neo TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/G9gjpVi.png" group-title="RADIOS",Animax Radio
+http://node-13.zeno.fm:80/0guzsnntsnhvv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fIzRGk0.png" group-title="RADIOS",Radio Anime Para Ti
+http://node-03.zeno.fm:80/qpn8mkt8c4duv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/asImMab.png" group-title="RADIOS",Radio Anime Tu Música Anime
+https://radioanime.radioca.st/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://irc.animenexus.mx/kiwi/assets/img/logo11.png" group-title="RADIOS",animenexus
+http://cast.animenexusla.com:8000/animenexus
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/fan-world-anime.png" group-title="RADIOS",Fan world anime
+http://stream.miradio.in:2199/tunein/fanworld.pls
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.animeplusradio.com/images/img0008.png" group-title="RADIOS",Anime plus
+https://stream-175.zeno.fm/rfun7q8bt8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZnVuN3E4YnQ4cXV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imx3cmllcGpwUlVhZTY4QTZmRXMteVEiLCJpYXQiOjE3NjM0MzU2NDUsImV4cCI6MTc2MzQzNTcwNX0.b220yLLQ1FhQh5NYjC-BUPMFvdWoEU7ws9z8wV6FJWs
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/9b/d6/2e/9bd62eb341dcd095bf01657f50d37257.jpg" group-title="Animacion" tvg-id="DragonBall" tvg-name="Dragon Ball", Dragon Ball
 https://183.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
