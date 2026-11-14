@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/energeek-c1.png" group-title="Animacion" tvg-id="EnerGeekRetro" tvg-name="EnerGeek Retro", EnerGeek Retro
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/energeek-c1.png" group-title="Animacion" tvg-id="EnerGeek" tvg-name="EnerGeek", EnerGeek
 https://cl-2.backend.energeek.cl/bkp/egretroweb/tracks-v1a1/mono.ts.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/eg-fan.png" group-title="Animacion" tvg-id="EnerGeekFan" tvg-name="EnerGeek FAN", EnerGeek FAN
 https://cl-2.backend.energeek.cl/bkp/egfanweb/video.m3u8?token=W3bEnerG33k2026
