@@ -4,6 +4,8 @@
 https://cl-2.backend.energeek.cl/bkp/egretroweb/tracks-v1a1/mono.ts.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/eg-fan.png" group-title="Animacion" tvg-id="EnerGeekFan" tvg-name="EnerGeek FAN", EnerGeek FAN
 https://cl-2.backend.energeek.cl/bkp/egfanweb/video.m3u8?token=W3bEnerG33k2026
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1691_ZyoonTV.png" group-title="Animacion" tvg-id="ZyoonTV" tvg-name="Zyoon TV",Zyoon TV
+https://183.giatvcdn.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Animacion" tvg-id="Locomotion" tvg-name="Locomotion", Locomotion
 http://146.19.49.197:81/live/loco_hi/index.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="Animacion" tvg-id="DreikoTV" tvg-name="Dreiko TV", Dreiko TV
