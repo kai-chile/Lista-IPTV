@@ -8,10 +8,14 @@ https://cl-2.backend.energeek.cl/bkp/egfanweb/video.m3u8?token=W3bEnerG33k2026
 https://183.giatvcdn.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Animacion" tvg-id="Locomotion" tvg-name="Locomotion", Locomotion
 http://146.19.49.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1  tvg-logo="https://janimotion.com/favicon.png" group-title="Animacion" tvg-id="Janimotion" tvg-name="Janimotion", Janimotion
+https://janimotion.com/hls/janimotion/index.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/dreikotv.png" group-title="Animacion" tvg-id="DreikoTV" tvg-name="Dreiko TV", Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/lms.png" group-title="Animacion" tvg-id="LMSTV" tvg-name="Canal LMS", Canal LMS
 https://183.giatvcdn.com/ssh101/ssh101/canallms/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjWRlf2MwJwIRS5gIHbHFRnAr5qv99bQ6uvfAphWENhMZbfiluvcSh95Q&s=10" group-title="Animacion" tvg-id="Jetix" tvg-name="Jetix", Jetix
+https://183.giatvcdn.com/giatv/giatv-MYJETIXRETRO/MYJETIXRETRO/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/gogoplay-tv.png" group-title="Animacion" tvg-id="Gogoplay" tvg-name="Gogoplay TV", Gogoplay TV
 https://183.giatvcdn.com/ssh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/max-anime-3-c.png" group-title="Animacion" tvg-id="MAXAnime" tvg-name="MAX Anime", MAX Anime
