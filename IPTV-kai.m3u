@@ -34,7 +34,7 @@ https://183.giatvcdn.com/ssh101/ssh101/simptestnews/chunks.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/monitvhd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="Animacion" tvg-id="RetroToons" tvg-name="Retro Toons", Retro Toons
 https://183.giatvcdn.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.fpmc1-1.fna.fbcdn.net/v/t39.30808-6/910835385_1434848108730883_3693993282956349950_n.avif?stp=dst-jpg_tt6&cstp=mx440x440&ctp=s440x440&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=BG7OXTJmx-MQ7kNvwEe3Spz&_nc_oc=AdqiL-sppYd0jxCx8gJPTIfjcsRuGWPHfjQdCVks8sABKyv_5My3XP1pO92BWEYaqx8&_nc_zt=23&_nc_ht=scontent.fpmc1-1.fna&_nc_gid=hxoIywxAYM_kFsG5B_u6Qg&_nc_ss=7b389&oh=00_AQStsVAyEUuRvEO2hOebRkdrCazE2D6xa9l5a_dcmfJZZw&oe=6B0BE1EF" group-title="Animacion" tvg-id="YumiTV" tvg-name="Yumi TV", Yumi TV
+#EXTINF:-1 tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="Animacion" tvg-id="YumiTV" tvg-name="Yumi TV", Yumi TV
 https://183.giatvcdn.com/giatv/giatv-pruebita/pruebita/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3298-294x165-FFFFFF.jpg" group-title="Clasicos" tvg-id="TELECLASICA" tvg-name="TELECLASICA", TELECLASICA
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8?hls_ctx=o4f6ex20
