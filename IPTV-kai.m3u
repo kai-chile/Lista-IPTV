@@ -32,6 +32,10 @@ https://183.giatvcdn.com/ssh101/ssh101/retromagicocnl/chunks.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/simptestnews/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/monitv.png" group-title="Animacion" tvg-id="MoniTV" tvg-name="Moni TV", Moni TV
 https://183.giatvcdn.com/ssh101/ssh101/monitvhd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://gia.tv/channels/logo/392d658a3b091dae4114aaead80f1e1b.jpg" group-title="Animacion" tvg-id="RetroToons" tvg-name="Retro Toons", Retro Toons
+https://183.giatvcdn.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fpmc1-1.fna.fbcdn.net/v/t39.30808-6/910835385_1434848108730883_3693993282956349950_n.avif?stp=dst-jpg_tt6&cstp=mx440x440&ctp=s440x440&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=BG7OXTJmx-MQ7kNvwEe3Spz&_nc_oc=AdqiL-sppYd0jxCx8gJPTIfjcsRuGWPHfjQdCVks8sABKyv_5My3XP1pO92BWEYaqx8&_nc_zt=23&_nc_ht=scontent.fpmc1-1.fna&_nc_gid=hxoIywxAYM_kFsG5B_u6Qg&_nc_ss=7b389&oh=00_AQStsVAyEUuRvEO2hOebRkdrCazE2D6xa9l5a_dcmfJZZw&oe=6B0BE1EF" group-title="Animacion" tvg-id="YumiTV" tvg-name="Yumi TV", Yumi TV
+https://183.giatvcdn.com/giatv/giatv-pruebita/pruebita/chunks.m3u
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3298-294x165-FFFFFF.jpg" group-title="Clasicos" tvg-id="TELECLASICA" tvg-name="TELECLASICA", TELECLASICA
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8?hls_ctx=o4f6ex20
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2022/01/Canal-Mi-TV-Television-Clasica-en-vivo-150x96.jpg" group-title="Clasicos" tvg-id="MiTV" tvg-name="Mi TV", Mi TV
@@ -39,7 +43,7 @@ https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvretrotest.proinsar.com/imagenes/Logo.png" group-title="Clasicos" tvg-id="TV Retro Palmares" tvg-name="TV Retro Palmares", TV Retro Palmares
 https://183.giatvcdn.com/ssh101/ssh101/tvretropalm2020/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zLkTnFfdGGq5-cuY0DBvsCoiRUToWFA8rcm_Z3ieUr7rwgmzyojRXIfqMXt9dm4ocjs" group-title="Clasicos" tvg-id="RetroTvOnline" tvg-name="Retro TV Online", Retro TV Online
-https://183.giatvcdn.com/ssh101/ssh101/retrotvcr2025/chunks.m3u8
+https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8?tkn=1178106818
 #EXTINF:-1 tvg-logo="https://www.sarapiqui.go.cr/wp-content/uploads/2020/11/logo-sarapiqu%C3%AD-esp.png" group-title="Clasicos" tvg-id="STV" tvg-name="STV", STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/kpop-tv.png" group-title="Videos Musicales" tvg-id="KpopTV" tvg-name="Kpop TV", Kpop TV
